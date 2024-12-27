@@ -10,6 +10,8 @@
 
 -----
 
+**Project :** Wireframe Design Of A Mobile Application Using Figma
+
 **Project Overview**
 The provided UI design showcases a mobile application for a platform specializing in selling high-quality ceramic products. The design emphasizes a minimalistic and elegant aesthetic to reflect the artisanal nature of the products. Here's a breakdown of the application structure based on the displayed screens:
 
